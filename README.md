@@ -5,4 +5,3 @@ Todo-list with HTML5 && javascript
 
 ```
 
-
